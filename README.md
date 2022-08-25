@@ -47,5 +47,5 @@ Miguel de Cervantez
 **Lista no numerada**
 
 - Un elemento    
--     Otro elemento
+     -Otro elemento
 - Último elemento
