@@ -26,5 +26,5 @@ Otra línea más
 
 <h6>Encabezado de nivel 6 en HTML</h6>
 
-**texto en negrita**
+**texto en negrita**  
 __Otro texto en negrita__
