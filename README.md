@@ -10,7 +10,7 @@ Otro encabezado de nivel 2
 --------------------------
 
 **Imaagen en sintáxis HTML**  
-<img src="Yamato.jpg" width="200" height="100">  
+<img src="Yamato.jpg" width="200" >  
 
 __Imagen en sintáxis MD__  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kodaki_fuji_frm_shojinko_refurb.jpg/1920px-Kodaki_fuji_frm_shojinko_refurb.jpg "Monte Fuji")
