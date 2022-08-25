@@ -50,5 +50,5 @@ Miguel de Cervantez
     - Otro elemento
     - Último elemento
 
-[Sitio web de la UCR](https://www.ucr.ac.cr/)
-
+[Sitio web de la UCR](https://www.ucr.ac.cr/)  
+[Taller sobre R](https://talks.osgeo.org/foss4g-2022-workshops/talk/7CLACJ/)
