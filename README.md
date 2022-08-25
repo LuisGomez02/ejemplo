@@ -31,3 +31,6 @@ _texto en itálica_
 
 **_texto en negrita e itálica_**  
 ***texto en negrita e itálica***
+
+> "*Yo solo sé que no sé nada"*  
+Sócrates
