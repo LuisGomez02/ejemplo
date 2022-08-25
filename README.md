@@ -37,3 +37,15 @@ Sócrates
 
 > __"En un lugar de la mancha de cuyo nombre no quiero acordarme..."__  
 Miguel de Cervantez
+
+**Lista numerada*
+
+1. Primer elemento
+2. Segundo elemento
+3. Tercer elemento
+
+**Lista no numerada**
+
+- Un elemento    
+-     Otro elemento
+- Último elemento
