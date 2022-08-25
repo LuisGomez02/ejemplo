@@ -28,3 +28,6 @@ __Otro texto en negrita__
 
 *texto en itálica*  
 _texto en itálica_
+
+**_texto en negrita e itálica_**  
+***texto en negrita e itálica***
