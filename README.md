@@ -32,5 +32,8 @@ _texto en itálica_
 **_texto en negrita e itálica_**  
 ***texto en negrita e itálica***
 
-> "*Yo solo sé que no sé nada"*  
+> *"Yo solo sé que no sé nada"*  
 Sócrates
+
+> _"En un lugar de la mancha de cuyo nombre no quiero acordarme..."_
+Miguel de Cervantez
