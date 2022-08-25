@@ -35,5 +35,5 @@ _texto en itálica_
 > *"Yo solo sé que no sé nada"*  
 Sócrates
 
-> _"En un lugar de la mancha de cuyo nombre no quiero acordarme..."_  
+> __"En un lugar de la mancha de cuyo nombre no quiero acordarme..."__  
 Miguel de Cervantez
